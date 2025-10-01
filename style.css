@@ -3,16 +3,16 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: #222;
+  background: #ffe4ec; /* very light pink background */
   font-family: Arial, sans-serif;
   margin: 0;
 }
 
 .calculator {
-  background: #333;
+  background: #ffb6c1; /* light pink */
   padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0px 4px 15px rgba(0,0,0,0.5);
+  border-radius: 15px;
+  box-shadow: 0px 4px 15px rgba(0,0,0,0.3);
   width: 260px;
 }
 
@@ -24,9 +24,9 @@ body {
   text-align: right;
   padding: 5px;
   border: none;
-  border-radius: 5px;
-  background: #111;
-  color: #fff;
+  border-radius: 8px;
+  background: #fff0f5; /* lavender blush */
+  color: #d6336c;      /* darker pink text */
 }
 
 .buttons {
@@ -39,12 +39,17 @@ button {
   height: 50px;
   font-size: 20px;
   border: none;
-  border-radius: 5px;
-  background: #555;
+  border-radius: 8px;
+  background: #ff69b4; /* hot pink */
   color: white;
   cursor: pointer;
+  transition: 0.2s;
 }
 
 button:hover {
-  background: #777;
+  background: #ff1493; /* deep pink */
+}
+
+button:active {
+  background: #c71585; /* medium violet-red */
 }
