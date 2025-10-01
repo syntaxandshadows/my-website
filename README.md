@@ -1,4 +1,4 @@
-# My First Website 🌐
+# My First Calculator🧮
 
 This is a simple HTML & CSS & JavaScript calculator I built as my first project on GitHub Pages.  
 
