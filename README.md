@@ -3,7 +3,7 @@
 This is a simple HTML & CSS & JavaScript calculator I built as my first project on GitHub Pages.  
 
 ## 🔹 Live Demo
-👉 [View it here](https://yourusername.github.io/simple-calculator/)  
+👉 [View it here](https://syntaxandshadows.github.io/simple-pink-calculator/)  
 
 
 ## 🔹 Features
