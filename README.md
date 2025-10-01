@@ -1,13 +1,10 @@
 # My First Website 🌐
 
-This is a simple HTML & CSS website I built as my first project on GitHub Pages.  
+This is a simple HTML & CSS & JavaScript calculator I built as my first project on GitHub Pages.  
 
 ## 🔹 Live Demo
-👉 [View it here](https://yourusername.github.io/my-website/)  
+👉 [View it here](https://yourusername.github.io/simple-calculator/)  
 
-## 🔹 What's Inside
-- `index.html` → the homepage
-- `style.css` → styling for the site
 
 ## 🔹 Features
 - Clean and simple design  
